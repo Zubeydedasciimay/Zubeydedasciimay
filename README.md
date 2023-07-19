@@ -1,8 +1,8 @@
-[![MasterHead](https://www.linkedin.com/pulse/my-leaning-journy-datacamp-wael-dagash/)]
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1695254400&v=beta&t=3WdNX5fBIPtagjRkxLf1gl4IQ9MYsVo-CFWvzeb6GuE)](https://www.linkedin.com/pulse/my-leaning-journy-datacamp-wael-dagash/)
 <h1 align="center">Hi 👋, I'm Zübeyde Dasci Imay</h1>
 <h3 align="center">A passionate data scientist from Germany</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/619d02086bec21419844fd08/619d02086bec212c5044fde0_illustration-5.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubeydedasciimay&label=Profile%20views&color=0e75b6&style=flat" alt="zubeydedasciimay" /> </p>
 
